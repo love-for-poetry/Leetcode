@@ -4,7 +4,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|LeetCode 647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[JAVA](https://gitee.com/love-for-poetry/Leetcode/blob/love-for-poetry/code/java/countSubstrings.java)|Medium|
+|LeetCode 647|[回文子串](https://leetcode-cn.com/problems/palindromic-substrings/)|[JAVA](https://gitee.com/love-for-poetry/Leetcode/blob/love-for-poetry/code/java/src/countSubstrings.java)|Medium|
 |LeetCode 183|[从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order/)|[MySQL](https://gitee.com/love-for-poetry/Leetcode/blob/love-for-poetry/code/mysql/NeverOrder.sql)|Easy|
 |LeetCode 88|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|[Java](https://gitee.com/love-for-poetry/Leetcode/blob/love-for-poetry/code/java/src/mergeSortArray.java)|Easy|
 |LeetCode 53|[N 皇后 II](https://leetcode-cn.com/problems/n-queens-ii/)|[Java](https://gitee.com/love-for-poetry/Leetcode/blob/love-for-poetry/code/java/src/totalNQueens.java)|hard|
